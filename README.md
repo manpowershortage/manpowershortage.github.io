@@ -1,2 +1,7 @@
-# manpowershortage.github.io
+# STADY
 경소고 인력부족 깃헙 페이지
+
+STADY는 기존 시장에 나와있는 모든 스터디플레너의 장점만 모아 만든 앱입니다
+
+
+
